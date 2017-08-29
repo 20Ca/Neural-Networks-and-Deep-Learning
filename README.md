@@ -23,3 +23,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unp
 
 ### Translator
 [临书](https://github.com/tmpbook)：之前校对过一篇文章，叫《我是如何在谷歌做开发者用户体验的》，我觉得角度很特别，作者讲解了如何提升开发者（而不是用户）的用户体验，本文我会试着加一些注解，希望看完本翻译项目的开发者们**提高识别能力而非回忆**，当然你觉得这本书哪里读起来不顺畅请尽管提出来。
+
+如果太久没更，请麻烦你用 issue 呼一下我。最后，所有内容有疑问请随意提 PR（包括本 README.md）
+
+### 其他完整翻译
+
+- [zhanggyb/nndl](https://github.com/zhanggyb/nndl)
