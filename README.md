@@ -22,4 +22,4 @@ In academic work, please cite this book as: Michael A. Nielsen,"Neural Networks 
 This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported **License**. This means you're free to copy, share, and build on this book, but not to sell it. If you're interested in commercial use, please contact me.
 
 ### Translator
-[星辰临书](https://github.com/tmpbook)：之前校对过一篇文章，叫《我是如何在谷歌做开发者用户体验的》，我觉得角度很特别，作者讲解了如何提升开发者（而不是用户）的用户体验，本文我会试着加一些注解，希望看完本翻译项目的开发者们**提高识别能力而非回忆**，当然你觉得这本书哪里读起来不顺畅请尽管提出来。
+[临书](https://github.com/tmpbook)：之前校对过一篇文章，叫《我是如何在谷歌做开发者用户体验的》，我觉得角度很特别，作者讲解了如何提升开发者（而不是用户）的用户体验，本文我会试着加一些注解，希望看完本翻译项目的开发者们**提高识别能力而非回忆**，当然你觉得这本书哪里读起来不顺畅请尽管提出来。
